@@ -3,7 +3,7 @@
 /**
  * main - print all strings from 0 to 9
  *
- * Retur: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -15,5 +15,5 @@ int main(void)
 
 	printf("\n");
 
-	return(0);
+	return (0);
 }
