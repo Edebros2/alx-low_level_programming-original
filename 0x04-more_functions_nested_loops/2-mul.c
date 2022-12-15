@@ -5,10 +5,10 @@
  * @x: variable 1
  * @y: variable 2
  *
- * Return: a * b
+ * Return: x * y
  */
 
-int mul(int a, int b)
+int mul(int x, int y)
 {	
-	return (a * b);
+	return (x * y);
 }
