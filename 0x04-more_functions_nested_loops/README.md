@@ -1,1 +1,1 @@
-5-more_numbers.c
+This code draws a diagonal line on the terminal
