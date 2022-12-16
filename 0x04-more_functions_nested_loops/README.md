@@ -1,1 +1,1 @@
-This code draws a diagonal line on the terminal
+This code draws a square followed by a new line
